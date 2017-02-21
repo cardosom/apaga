@@ -1,2 +1,7 @@
 # Apaga
-Nenhuma descrição
+
+Este repositório é para demonstração apenas.
+
+## Subtítulo
+
+Mais coisas aqui.
